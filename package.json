@@ -2,6 +2,7 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "dotenv": "^16.4.5",
-    "imap": "^0.8.19"
+    "imap": "^0.8.19",
+    "nodemailer": "^6.9.16"
   }
 }

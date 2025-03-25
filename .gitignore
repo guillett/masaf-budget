@@ -1,3 +1,6 @@
 node_modules
 .env*
 data/*.json
+.ipynb_checkpoints
+
+*~lock*
